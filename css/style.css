@@ -1,0 +1,108 @@
+h1{
+	color: red;
+	background-color: blue;
+
+}
+
+img {
+     width: 82%;
+     height: 445px;
+
+}
+
+header {
+     font-style: serif;
+     color: #6B3E80;
+     text-align: center;
+   
+}
+
+.html {
+	font-style: serif;
+	color: #6AAEE9;
+}
+
+.css {
+    font-style: serif; 
+    color: #E96AAD; 
+
+}
+
+.javascript {
+	font-style: serif;
+	color: #8473F6;
+}
+
+.bootstrap {
+	font-style: san-serif;
+	color: #57D6F7;
+}
+
+.jquery {
+    font-style: serif;
+    color: #E6946A;
+
+}
+
+.php {
+	font-style: serif;
+	color: #6967ED;
+}
+
+.wordpress {
+	font-style: serif;
+	color: #82368F;
+}
+
+.todolist {
+	font-style: serif;
+	color: #9AA5F3;
+	text-align: center;
+}
+
+.firstimage {
+	background-color: #686DF5;
+	backface-visibility: hidden;
+}
+
+.skill {
+	background-color: #CAF3BF;
+	text-align: center;
+}
+
+.header {
+	background-color: #A4F1DD;
+
+}
+
+.backend {
+	font-style: serif;
+	color: #DF999E;
+	background-color: #D5F4F3;
+}
+
+.secondlist {
+	font-style: serif;
+	color: #81F18A;
+	background-color: #FCDEFA;
+	text-align: center;
+}
+
+#php1 {
+	color: #89EF56;
+
+}
+
+#python1 {
+	color: #56DAEF;
+}
+
+#ruby1 {
+	color: #D482EF;
+}
+
+.footer {
+	color: #CC5C60;
+	text-align: center;
+	background-color: #7BE2E0;
+}
